@@ -57,12 +57,12 @@ body {
 
 .robot:hover .robot-head-left {
   right: 13em;
-  top: 0.7em;
+  top: .7em;
 }
 
 .robot:hover .robot-head-right {
   left: 13em;
-  top: 0.7em;
+  top: .7em;
 }
 
 .robot:hover .robot-brain {
